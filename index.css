@@ -12,12 +12,9 @@ body {
     background: black;
     border: 3px solid darkorange;
     border-radius: 10px;
-    position: relative;
     max-width: 40%;
-    top: calc(50% - 175px);
-    left: calc(50% - 125px);
+    margin: 0 auto;
     border-radius: 9px;
-    overflow: hidden;
     
 }
 
